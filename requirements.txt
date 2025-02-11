@@ -1,0 +1,8 @@
+flask
+pytesseract
+pdf2image
+pillow
+requests
+langchain_openai
+langchain_core
+gunicorn
