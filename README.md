@@ -145,16 +145,3 @@ Checks if the service is running.
     "count": 1
 }
 ```
-
-## Additional Information
-
-For more details about the service, please refer to the documentation.
-
-## Contact
-
-If you have any questions or need further assistance, please contact us at:
-
-- Email: [contact@example.com](mailto:contact@example.com)
-- Phone: +1 (555) 123-4567
-
-Thank you for using our service!
